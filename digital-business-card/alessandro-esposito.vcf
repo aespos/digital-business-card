@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Esposito;Alessandro;;;
+FN:Alessandro Esposito
+ORG:FIDES
+TITLE:Senior Software Engineer / Delivery Manager
+EMAIL;TYPE=INTERNET,WORK:alessandroesposito.ssw@gmail.com
+TEL;TYPE=CELL,VOICE:+393454377205
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/alessandro-e-34529173
+URL;TYPE=WORK:https://www.fidesgroup.com/it
+URL;TYPE=GitHub:https://github.com/aespos
+NOTE:Competenze: AWS Cloud Native\, Artificial Intelligence\, Enterprise Software Development\, System Integration\, Project & Delivery Management
+END:VCARD
